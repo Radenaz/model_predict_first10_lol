@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Radenaz/testing-one/refs/heads/main/high_diamond_ranked_10min.csv
+https://huggingface.co/spaces/Radenaz/study_classprob_lol
